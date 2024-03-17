@@ -1,0 +1,4 @@
+--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart
+-ID:\Install\MDK5\ARM\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include
+-D__UVISION_VERSION="536" -DSTM32F10X_HD -DSTM32F10x_HD
+-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d "main.c"

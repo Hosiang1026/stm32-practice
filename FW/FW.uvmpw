@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\Template\USER\Template.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\LED\USER\LED.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\LED_BIT\USER\LED_BIT.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\KEY\USER\KEY.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\USART\USER\USART.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\EXTI\USER\EXTI.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\IWDG\USER\IWDG.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\WWDG\USER\WWDG.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\TIMER\USER\TIMER.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\PWM_OUT\USER\PWM_OUT.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\PWM_IN\USER\PWM_IN.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\LCD\USER\LCD.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+</ProjectWorkspace>
